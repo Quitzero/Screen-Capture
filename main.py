@@ -13,7 +13,8 @@ from windows_tools.installed_software import get_installed_software
 from PySide6.QtWidgets import QApplication, QMainWindow, QFileDialog, QMessageBox
 from PySide6.QtCore import QThread, Signal
 from UI.main import Ui_Rec_Window
-
+#1
+main.py
 
 class Info_Thread(QThread):
     """
